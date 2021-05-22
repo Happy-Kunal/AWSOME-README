@@ -1,12 +1,12 @@
 # AWSOME-README
 
-# <Project/Repo Name> : <Tag Line>
+# <Project/Repo Name> : \<Tag Line>
 
 ## A mine full of amazing programs that may gonna make you WOW ! (OR someting else)
 
 ---
                                             **sample run of <program name>**
-<Video URL>
+\<Video URL>
 
 ---
 ## Table Of Content
@@ -37,7 +37,7 @@ sudo dnf install <Requirement2>
 
 ## Usage
 
-<uses>
+\<Enter Some uses>
 
 As Well As Various Other Things To ......
 
@@ -53,7 +53,7 @@ Contributions are what make the open source community such an amazing place to b
 
 ---
 ## License
-[MIT](https://github.com/<Your User Name>/<RepoName>/blob/master/LICENSE)
+[MIT](https://github.com/Happy-Kunal/AWSOME-README/blob/main/LICENSE)
 
 ---
 ## Contact
@@ -61,5 +61,5 @@ Contributions are what make the open source community such an amazing place to b
 ---
 
 ### THANKS FOR CHOOSING
-#### -- <Your Name>
+#### -- \<Your Name>
 
