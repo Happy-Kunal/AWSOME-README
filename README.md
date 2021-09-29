@@ -5,13 +5,18 @@
 ## A mine full of amazing programs that may gonna make you WOW ! (OR someting else)
 
 ---
-                                            **sample run of <program name>**
-\<Video URL>
+
+<p aline="center">
+<b>sample run of <program name></b>
+</p>
+
+\<Video URL> <! Or Drag and drop Video From Your File Manager>
 
 ---
+
 ## Table Of Content
 
-* [Prerequisites](#prerequisites)
+* [Dependencies](#dependencies)
 * [Usage](#usage)
 * [Contributing](#contributing)
 * [License](#license)
@@ -19,15 +24,21 @@
 * [Regards](#thanks-for-choosing)
 
 ---
-## Prerequisites
 
-gcc and python3 are Prerequisite
+## 🚀Some Screen Shots Of Results Of Using it
+<p align="center">
+<b>Coming Soon</b>
+</p>
+
+
+## Dependencies
+
 ```bash
-# For Debian based Distros (In General Cases These Are Pre-Installed)
+# For Debian based Distros
 sudo apt-get install <Requirement1>
 sudo apt-get install <Requirement2>
 
-# For RedHat Based Distro (In General Cases These Are Pre-Installed)
+# For RedHat Based Distro
 sudo dnf install <Requirement1>
 sudo dnf install <Requirement2>
 
@@ -53,13 +64,16 @@ Contributions are what make the open source community such an amazing place to b
 
 ---
 ## License
-[MIT](https://github.com/Happy-Kunal/AWSOME-README/blob/main/LICENSE)
+[LICENSE NAME, i.e. MIT](LICENSE)
 
 ---
 ## Contact
-* via Discussion Tab
+* Create New Issue
 ---
 
 ### THANKS FOR CHOOSING
 #### -- \<Your Name>
 
+<div align="right">
+  <b><a href="#awsome-readme">↥ Back To Top</a></b>
+</div>	
